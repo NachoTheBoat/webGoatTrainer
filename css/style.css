@@ -24,7 +24,7 @@ html{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5) 
     )
-    ,url(../media/hero\ 5.jpg);
+    ,url(/media/hero5.jpg);
     height: 90vh;
 }
 
@@ -140,13 +140,57 @@ html{
 
 footer{
 
-    height: 150px;
+    height: 100px;
     color: #FFF;
     background-color: #172029;
     text-align: center;
 }
 
 
+.fondoQuienesSomos{
+   
+    
+    background-image:
+   
+    
+    linear-gradient( 
+        0deg,
+
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5) 
+    ),
+   
+  
+
+    url(/media/cabrafachera2.jpg);
+
+  
+    
+    
+    height: max-content;
+   
+    
+    background-size: cover;
+
+    background-repeat: no-repeat;
+}
+
+.containerQuienesSomos{
+    background-color:aquamarine
+}
+
+p{
+    color:azure
+}
+
+.fondoGaleria{
+    background-color: #172029;
+}
+
+.tituloIndex{
+   box-sizing: border-box;
+
+}
 
 
 
