@@ -24,7 +24,7 @@ html{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5) 
     )
-    ,url(../media/hero5.jpg);
+    ,url(../media/comprimidas/hero5.jpg);
     height: 90vh;
 }
 
@@ -75,7 +75,7 @@ html{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5) 
     )
-    ,url(../media/hero\ 1\ real.png);
+    ,url(../media/comprimidas/hero\ 1\ real.png);
     height: 100vh;
 
     background-size:cover;
@@ -85,34 +85,7 @@ html{
 
 }
      
- /* este boton no va*/
-
-    
- /* .boton-whatsapp{
-    position: fixed;
-    width: 60px;
-    height: 60px;
-    line-height: 55px;
-    bottom: 30px;
-    right: 30px;
-    background:#0df053 ;
-    color: #fff;
-    border-radius: 50px;
-    text-align: center;
-    
-
-}
-
-.boton-whatsapp :hover{
-    text-decoration: none;
-    color: #0df053;
-    background: #fff;
-
-
-}  */
-
-/* el boton de whatsap real,este si va*/
-
+ 
 
 .btn-wsp{
     position:fixed;
@@ -140,7 +113,7 @@ html{
 
 footer{
 
-    height: 100px;
+    height: 105px;
     color: #FFF;
     background-color: #172029;
     text-align: center;
@@ -159,21 +132,16 @@ footer{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5) 
     ),
-   
-  
 
     url(../media/cabrafachera2.jpg);
-
-  
-    
     
     height: max-content;
    
-    
     background-size: cover;
 
     background-repeat: no-repeat;
 }
+
 
 .containerQuienesSomos{
     background-color:aquamarine
